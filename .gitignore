@@ -1,0 +1,18 @@
+.env/
+
+# Logs e backups
+logs/
+*.log
+backup/
+*.bak
+
+# Banco de dados
+emails.db
+*.sqlite3
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
